@@ -1,0 +1,6 @@
+{
+  "name": "Shortexam",
+  "description": "AI-powered exam and question paper generator inspired by Shortexam, supporting NCTB curriculum, grammar, creative questions, and instant PDF printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
